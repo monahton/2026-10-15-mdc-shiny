@@ -311,7 +311,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use a <a href="https://etherpad.wikimedia.org/p/2026-06-18-mdc-rmarkdown"> collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use a <a href="https://etherpad.wikimedia.org/p/2026-10-15-mdc-shiny"> collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
